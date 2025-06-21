@@ -5,7 +5,7 @@ import random
 import string
 
 # --- Token ide jön ---
-TOKEN = "A_TE_DISCORD_BOT_TOKENED"
+TOKEN = "MTM4NTY0NzA2MDMyOTU2MjIzMw.GkuFXj.6_-q3BzwOtavn1cpNJkOauOza_s5VV_MlkqObM"
 
 # --- License generálás ---
 def generate_license_key():
