@@ -5,7 +5,7 @@ import random
 import string
 
 # --- Token ide jön ---
-TOKEN = "MTM4NTY0NzA2MDMyOTU2MjIzMw.GkuFXj.6_-q3BzwOtavn1cpNJkOauOza_s5VV_MlkqObM"
+TOKEN = "TOKEN"
 
 # --- License generálás ---
 def generate_license_key():
